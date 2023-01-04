@@ -4,8 +4,8 @@ h1{
 p{
     font-family: sans-serif;
 }
-.footer h1{
+.footer {
     font-size: 100px;
     font-weight: 900;
-font-family: cursive;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
