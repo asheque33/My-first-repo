@@ -4,3 +4,8 @@ h1{
 p{
     font-family: sans-serif;
 }
+.footer h1{
+    font-size: 100px;
+    font-weight: 900;
+font-family: cursive;
+}
